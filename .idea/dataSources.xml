@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2404657219">
+    <data-source source="LOCAL" name="PostgreSQL - TestNovus@localhost" uuid="7e433cda-8465-4311-be01-2c8050581c0a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/TestNovus</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="HSQLDB (Local) - testbd" uuid="77a76037-5228-4209-9473-885f19855f71">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:testbd</jdbc-url>
+    </data-source>
+  </component>
+</project>

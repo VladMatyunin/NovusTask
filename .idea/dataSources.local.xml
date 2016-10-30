@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - TestNovus@localhost" uuid="7e433cda-8465-4311-be01-2c8050581c0a">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>TestNovus.pg_catalog TestNovus.public</schema-pattern>
+      <default-schemas>TestNovus.public</default-schemas>
+    </data-source>
+    <data-source name="HSQLDB (Local) - testbd" uuid="77a76037-5228-4209-9473-885f19855f71">
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <schema-pattern>PUBLIC.PUBLIC</schema-pattern>
+      <default-schemas>PUBLIC.PUBLIC</default-schemas>
+    </data-source>
+  </component>
+</project>
